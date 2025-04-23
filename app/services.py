@@ -28,6 +28,7 @@ def process_question(data):
                 "status": "success",
                 "message": "Answer generated successfully",
                 "answer": answer,
+                
             }
         )
     except Exception as e:

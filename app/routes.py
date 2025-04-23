@@ -14,3 +14,9 @@ def answer_question():
 def upload_file():
     file = request.files.get("file")
     return save_uploaded_file(file)
+
+
+# Testing route hello print
+@main_bp.route("/hello", methods=["GET"])
+def hello():
+    return "Hello, World!"

@@ -20,9 +20,9 @@ __pycache__/
 # Log files
 *.log
 
-# Ignore the data folder except for a placeholder file
+# Allow .txt files in the data folder
 data/*
-!data/.gitkeep
+!data/*.txt
 
 # Test artifacts
 *.pytest_cache/

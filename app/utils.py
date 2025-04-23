@@ -34,6 +34,8 @@ def call_openai(prompt):
                 "content": "You answer questions based on given articles.",
             },
             {"role": "user", "content": prompt},
+
+            
         ],
         model="gpt-4o",
         temperature=0,
