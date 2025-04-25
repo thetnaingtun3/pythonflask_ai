@@ -1,5 +1,6 @@
 import os
-from flask import jsonify
+import json
+from flask import jsonify, Response
 from app.utils import load_articles, build_prompt, call_openai
 
 data_folder = "data"
@@ -11,11 +12,13 @@ articles = load_articles(data_folder)
 def process_question(data):
     user_question = data.get("question", "")
     if not user_question:
-        return (
-            jsonify(
-                {"status": "error", "message": "Question not provided", "answer": None}
-            ),
-            400,
+        response = {
+            "status": "error",
+            "message": "Question not provided",
+            "answer": None,
+        }
+        return Response(
+            json.dumps(response, indent=4), status=400, mimetype="application/json"
         )
 
     combined_articles = "\n\n".join(articles.values())
@@ -23,45 +26,56 @@ def process_question(data):
 
     try:
         answer = call_openai(prompt)
-        return jsonify(
-            {
-                "status": "success",
-                "message": "Answer generated successfully",
-                "answer": answer,
-                
-            }
+        response = {
+            "status": "success",
+            "message": "Answer generated successfully",
+            "answer": answer,
+        }
+        return Response(
+            json.dumps(response, indent=4), status=200, mimetype="application/json"
         )
     except Exception as e:
-        return jsonify({"status": "error", "message": str(e), "answer": None}), 500
+        response = {
+            "status": "error",
+            "message": str(e),
+            "answer": None,
+        }
+        return Response(
+            json.dumps(response, indent=4), status=500, mimetype="application/json"
+        )
 
 
 def save_uploaded_file(file):
     if not file:
-        return (
-            jsonify({"status": "error", "message": "No file part in the request"}),
-            400,
+        response = {"status": "error", "message": "No file part in the request"}
+        return Response(
+            json.dumps(response, indent=4), status=400, mimetype="application/json"
         )
 
     if file.filename == "":
-        return jsonify({"status": "error", "message": "No file selected"}), 400
+        response = {"status": "error", "message": "No file selected"}
+        return Response(
+            json.dumps(response, indent=4), status=400, mimetype="application/json"
+        )
 
     if not file.filename.endswith(".txt"):
-        return (
-            jsonify({"status": "error", "message": "Only .txt files are allowed"}),
-            400,
+        response = {"status": "error", "message": "Only .txt files are allowed"}
+        return Response(
+            json.dumps(response, indent=4), status=400, mimetype="application/json"
         )
 
     try:
         file_path = os.path.join(data_folder, file.filename)
         file.save(file_path)
-        return (
-            jsonify(
-                {
-                    "status": "success",
-                    "message": f"File '{file.filename}' uploaded successfully",
-                }
-            ),
-            200,
+        response = {
+            "status": "success",
+            "message": f"File '{file.filename}' uploaded successfully",
+        }
+        return Response(
+            json.dumps(response, indent=4), status=200, mimetype="application/json"
         )
     except Exception as e:
-        return jsonify({"status": "error", "message": str(e)}), 500
+        response = {"status": "error", "message": str(e)}
+        return Response(
+            json.dumps(response, indent=4), status=500, mimetype="application/json"
+        )

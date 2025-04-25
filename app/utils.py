@@ -14,7 +14,7 @@ def load_articles(data_folder):
 
 def build_prompt(articles, question):
     return f"""Use the below articles to answer the subsequent question. 
-If the answer cannot be found, write "I don't know."
+If the answer cannot be found, write "I'm still learning, but I'll do my best to help with that."
 
 Articles:
 \"\"\"
@@ -34,8 +34,6 @@ def call_openai(prompt):
                 "content": "You answer questions based on given articles.",
             },
             {"role": "user", "content": prompt},
-
-            
         ],
         model="gpt-4o",
         temperature=0,
