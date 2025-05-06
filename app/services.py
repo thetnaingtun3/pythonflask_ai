@@ -2,7 +2,12 @@ import os
 import json
 from flask import jsonify, Response
 from app.utils import load_articles, build_prompt, call_openai
+import mysql.connector
 
+
+from dotenv import load_dotenv
+
+load_dotenv()
 data_folder = "data"
 os.makedirs(data_folder, exist_ok=True)
 
@@ -79,3 +84,13 @@ def save_uploaded_file(file):
         return Response(
             json.dumps(response, indent=4), status=500, mimetype="application/json"
         )
+
+
+def get_db_connection():
+    connection = mysql.connector.connect(
+        host=os.getenv("DB_HOST"),
+        user=os.getenv("DB_USER"),
+        password=os.getenv("DB_PASSWORD"),
+        database=os.getenv("DB_NAME"),
+    )
+    return connection

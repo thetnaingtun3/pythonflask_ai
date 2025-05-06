@@ -2,6 +2,13 @@ import os
 from openai import OpenAI
 
 
+def simple_response(msg):
+    return {
+        "status": "success",
+        "message": msg,
+    }
+
+
 def load_articles(data_folder):
     articles = {}
     for filename in os.listdir(data_folder):
