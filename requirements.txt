@@ -3,6 +3,6 @@ openai
 dotenv
 pytest
 flask-cors
-flask-sqlalchemy
-mysql-connector-python
-flask-mysqldb
+# flask-sqlalchemy
+# mysql-connector-python
+# flask-mysqldb

@@ -1,13 +1,14 @@
 from flask import Flask
 from flask_cors import CORS
-from flask_sqlalchemy import SQLAlchemy
+
+# from flask_sqlalchemy import SQLAlchemy
 from dotenv import load_dotenv
 import os
 
 load_dotenv()
 
 # Initialize SQLAlchemy
-db = SQLAlchemy()
+# db = SQLAlchemy()
 
 
 def create_app():
@@ -18,11 +19,11 @@ def create_app():
     app.config.from_object("config.Config")
 
     # Initialize database
-    db.init_app(app)
+    # db.init_app(app)
 
     # Automatically create database tables
-    with app.app_context():
-        db.create_all()
+    # with app.app_context():
+    # db.create_all()
 
     # Register routes
     from app.routes import main_bp

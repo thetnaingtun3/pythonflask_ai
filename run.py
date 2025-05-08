@@ -1,5 +1,6 @@
 from app import create_app
-from flask_mysqldb import MySQL
+
+# from flask_mysqldb import MySQL
 
 app = create_app()
 

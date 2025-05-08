@@ -37,12 +37,13 @@ def call_openai(prompt):
     response = client.chat.completions.create(
         messages=[
             {
-                "role": "system",
+                "role": "developer",
                 "content": "You answer questions based on given articles.",
             },
             {"role": "user", "content": prompt},
         ],
         model="gpt-4o",
+        # model="gpt-4.1",
         temperature=0,
     )
-    return response.choices[0].message.content.strip()
+    return response.choices[0].message.content

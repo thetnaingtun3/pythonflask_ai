@@ -1,5 +1,5 @@
 from flask import Blueprint, request, jsonify
-from app.services import process_question, save_uploaded_file, get_db_connection
+from app.services import process_question, save_uploaded_file
 from app.utils import simple_response
 
 
@@ -30,12 +30,12 @@ def hello():
     return "Hello, Universe!"
 
 
-@main_bp.route("/users", methods=["GET"])
-def index():
+# @main_bp.route("/users", methods=["GET"])
+# def index():
 
-    conn = get_db_connection()
-    cursor = conn.cursor()
-    cursor.execute("SELECT * FROM users")
-    users = cursor.fetchall()
-    conn.close()
-    return users
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+#     cursor.execute("SELECT * FROM users")
+#     users = cursor.fetchall()
+#     conn.close()
+#     return users
