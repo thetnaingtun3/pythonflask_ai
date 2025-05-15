@@ -3,6 +3,9 @@ openai
 dotenv
 pytest
 flask-cors
+fastapi 
+uvicorn
+python-multipart
 # flask-sqlalchemy
 # mysql-connector-python
 # flask-mysqldb

@@ -70,6 +70,9 @@ Nyi Nyi Naing
 Senior Manager
 Center Head, Mandalay
 
+Yoon Phoo Swe 
+IT Manager 
+
 Phue Ngon Thet
 Senior Manager
 Strategy First International College
@@ -166,6 +169,7 @@ Department Head (Business)
 Academic, Strategy First
 Nyi Nyi Naing
 Senior Manager
+
 Center Head, Mandalay
 Phue Ngon Thet
 Senior Manager
@@ -585,4 +589,3 @@ Contact Information for Further Details:
 - Email: info@strategyfirst.edu.mm
 - Phone: 09-250717166 / 167 / 168
 - Website: https://strategyfirst.edu.mm
-

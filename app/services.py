@@ -18,30 +18,28 @@ articles = load_articles(data_folder)
 def process_question(data):
     user_question = data.get("question", "")
     if not user_question:
-        return (
-            jsonify(
-                {"status": "error", "message": "Question not provided", "answer": None}
-            ),
-            400,
-        )
+        return {
+            "status": "error",
+            "message": "Question not provided",
+            "answer": None,
+        }
 
     combined_articles = "\n\n".join(articles.values())
     prompt = build_prompt(combined_articles, user_question)
 
     try:
         answer = call_openai(prompt)
-        return (
-            jsonify(
-                {
-                    "status": "success",
-                    "message": "Answer generated successfully",
-                    "answer": answer,
-                }
-            ),
-            200,
-        )
+        return {
+            "status": "success",
+            "message": "Answer generated successfully",
+            "answer": answer,
+        }
     except Exception as e:
-        return jsonify({"status": "error", "message": str(e), "answer": None}), 500
+        return {
+            "status": "error",
+            "message": f"An error occurred: {str(e)}",
+            "answer": None,
+        }
 
 
 def save_uploaded_file(file):

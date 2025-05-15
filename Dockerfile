@@ -1,5 +1,7 @@
 # Use the official Python image as the base image
-FROM python:3.10-slim
+FROM python:3.10.17-alpine3.20
+# FROM python:3.10-slim
+
 
 # Set the working directory in the container
 WORKDIR /app
@@ -19,4 +21,5 @@ ENV FLASK_APP=run.py
 ENV FLASK_RUN_HOST=0.0.0.0
 
 # Run the Flask application
-CMD ["flask", "run"]
+# CMD ["flask", "run"]
+CMD ["uvicorn", "app.routes:app", "--host", "0.0.0.0", "--port", "5000"]

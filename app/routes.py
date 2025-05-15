@@ -1,41 +1,97 @@
-from flask import Blueprint, request, jsonify
+from fastapi import FastAPI, HTTPException, UploadFile, File
+from fastapi.responses import JSONResponse
+import os
 from app.services import process_question, save_uploaded_file
 from app.utils import simple_response
 
+app = FastAPI()
+data_folder = "data"  # Ensure this matches your folder structure
 
-main_bp = Blueprint("main", __name__)
+# Add CORS middleware
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "*"
+    ],  # Allow all origins. Replace "*" with specific origins if needed.
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods (GET, POST, PUT, DELETE, etc.)
+    allow_headers=["*"],  # Allow all headers
+)
 
 
-@main_bp.route("/", methods=["GET"])
-def home():
-    hell = "home"
-    return simple_response(hell)
+@app.get("/")
+async def home():
+    return simple_response("home")
 
 
-@main_bp.route("/question", methods=["POST"])
-def answer_question():
-    data = request.get_json()
+@app.post("/question")
+async def answer_question(data: dict):
+    if "question" not in data:
+        raise HTTPException(status_code=400, detail="Question not provided")
     return process_question(data)
 
 
-@main_bp.route("/upload", methods=["POST"])
-def upload_file():
-    file = request.files.get("file")
-    return save_uploaded_file(file)
+@app.post("/upload")
+async def upload_file(file: UploadFile = File(...)):
+    """Upload a file to the data folder."""
+    if not file.filename.endswith(".txt"):
+        raise HTTPException(status_code=400, detail="Only .txt files are allowed")
+    try:
+        file_path = os.path.join(data_folder, file.filename)
+        with open(file_path, "wb") as f:
+            f.write(await file.read())
+        return {
+            "status": "success",
+            "message": f"File '{file.filename}' uploaded successfully",
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 
-# Testing route hello print
-@main_bp.route("/hello", methods=["GET"])
-def hello():
+@app.get("/files")
+async def list_files():
+    """List all files in the data folder."""
+    try:
+        files = os.listdir(data_folder)
+        return {"status": "success", "files": files}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/files/{filename}")
+async def read_file(filename: str):
+    """Read the content of a specific file."""
+    file_path = os.path.join(data_folder, filename)
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail="File not found")
+    try:
+        with open(file_path, "r", encoding="utf-8") as file:
+            content = file.read()
+        return {"status": "success", "content": content}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.put("/files/{filename}")
+async def update_file(filename: str, data: dict):
+    """Update the content of a specific file."""
+    file_path = os.path.join(data_folder, filename)
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail="File not found")
+    new_content = data.get("content", "")
+    try:
+        with open(file_path, "w", encoding="utf-8") as file:
+            file.write(new_content)
+        return {
+            "status": "success",
+            "message": f"File '{filename}' updated successfully",
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/hello")
+async def hello():
     return "Hello, Universe!"
-
-
-# @main_bp.route("/users", methods=["GET"])
-# def index():
-
-#     conn = get_db_connection()
-#     cursor = conn.cursor()
-#     cursor.execute("SELECT * FROM users")
-#     users = cursor.fetchall()
-#     conn.close()
-#     return users

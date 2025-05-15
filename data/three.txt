@@ -1,0 +1,176 @@
+The SFU Wallet - SFU Learn Backend User Manual contains detailed instructions on how to manage and utilize various features in the SFU Learn backend system. Here are the main sections covered in the document:
+    1. Newsfeed Management:
+        ◦ Adding Text: Instructions for adding text, including the title and description, and saving it.
+        ◦ Adding Images: Guidance on uploading images to the newsfeed, selecting a title, and description.
+        ◦ Adding Videos: Steps for uploading videos to the newsfeed.
+        ◦ Image Sliders: Instructions for adding an image slider to the newsfeed.
+    2. Event Management:
+        ◦ Creating Events: Instructions on setting up events, including setting event types (online or campus), start/end dates, and points systems for participants.
+        ◦ User Registration for Events: How to view and manage the list of users who registered for events.
+        ◦ Importing Points: How to import points for events and users.
+    3. User Points and Wallet:
+        ◦ User Points: Tracking and managing the points earned by users through events.
+        ◦ Import Points: Steps to import points for users and manage their wallet balances.
+        ◦ Wallet Top-up: Detailed instructions on how to top up user wallets through QR scans and transaction approvals.
+        ◦ Canteen Wallet: Managing the wallet system for canteen transactions, including history and top-ups.
+    4. Menu Management:
+        ◦ Adding Menu Categories: Creating categories for menu items, such as "Everyday" or "Pre-order".
+        ◦ Adding Menu Items: Instructions on adding and managing individual items in the canteen menu, including setting prices and statuses.
+    5. System Setup and Maintenance:
+        ◦ Scanner Application: Instructions on how to download and set up the SFU scanner app for point tracking and wallet management.
+        ◦ Profile Management: How to manage user profiles, including editing details and resetting passwords.
+These are the key points from the SFU Wallet - SFU Learn Backend User Manual. If you need further clarification or help on a specific section, feel free to let me know!
+
+The SFU Wallet - SFU Learn Backend User Manual provides comprehensive instructions for managing various aspects of the SFU Learn platform, specifically regarding the backend functionality. Below is a detailed explanation in English of the key features outlined in the manual:
+1. Newsfeed Management:
+    • Adding Text:
+        ◦ Users can create text posts for the newsfeed by providing a title and description. Once these are entered, the user can select the text and click the Save button to post it.
+    • Adding Images:
+        ◦ Users can upload images to the newsfeed. The process includes adding a title and description, selecting the image, uploading it, and saving the changes.
+    • Adding Videos:
+        ◦ Users can also post videos to the newsfeed. The process involves uploading video files and saving the post.
+    • Image Slider:
+        ◦ An image slider can be added to the newsfeed. This is typically used for displaying multiple images in a slideshow format.
+2. Event Management:
+    • Creating Events:
+        ◦ Events can be created by entering the event's title, description, location, and date. The event can be categorized as either an online event (e.g., via Zoom) or a campus event.
+        ◦ Point systems can be applied to events, allowing users to earn points for attending.
+        ◦ Event details such as start and end dates, registration deadlines, and deposit amounts are all configurable.
+    • User Registration:
+        ◦ Once an event is created, users can register for the event. The system tracks which users have registered, and admins can view and manage this list.
+    • Event User Points:
+        ◦ Points earned by users attending events can be managed and imported into the system.
+3. Wallet Management:
+    • User Wallet:
+        ◦ Users can top-up their wallets via QR code scanning. Admins can approve wallet top-ups by verifying the transaction details.
+        ◦ Users’ wallet balances are updated once the top-up is approved.
+    • Wallet History:
+        ◦ Admins can view the wallet history for users, which includes records of top-ups, withdrawals, and transactions.
+    • Canteen Wallet:
+        ◦ The system also tracks canteen wallet transactions. This is useful for managing payments in the campus canteen, where students can use their wallet balances to make purchases.
+4. Menu Management:
+    • Menu Categories:
+        ◦ Admins can create categories for menu items, such as "Everyday" or "Pre-order". This helps organize the menu and ensures users can easily find different types of food items.
+    • Adding Menu Items:
+        ◦ Each menu item can be added with a name, price, description, rank (for ordering), and availability status (active or inactive). Menu items are displayed based on their category.
+5. Scanner Application:
+    • SFU Scanner App:
+        ◦ The SFU Scanner App is used for QR code scanning and for tracking point distributions when users make purchases or attend events. The app helps integrate the wallet system and point system with physical activities (like scanning QR codes at events or for transactions).
+6. User Profile Management:
+    • Profile Updates:
+        ◦ Students can update their profiles, including their names, dates of birth, photos, and other personal information. This is required for students to receive their digital student cards.
+    • Password Reset:
+        ◦ If students forget their passwords, they can reset them using the Forgot Password feature. This will send a recovery email to their registered email address.
+7. System Settings and Notifications:
+    • Student Card:
+        ◦ Students can create and manage their digital student card via the SFU Learn app, which requires them to update their profile with the correct personal information.
+    • Settings and Contact:
+        ◦ Students can change their passwords or contact the school for further support if their account details need to be updated.
+8. Corporate Discount Management:
+    • Discount Setup:
+        ◦ Admins can create and manage corporate discount categories. This feature allows businesses to offer discounts to students or other users. Admins can specify the discount percentage, upload the discount logo, and mark the discount as either active or inactive.
+9. Event Registration and User Points:
+    • Points History:
+        ◦ Admins can view users' point histories, which track how many points users have earned through events, and monitor how these points contribute to their wallet balances
+The Student Card Application.pptx document provides detailed instructions on how to obtain a digital student card via the SFU Learn Application. Below is a breakdown of the key points:
+1. Downloading the SFU Learn Application:
+    • For Android Users: Download the app from the Google Play Store using this link: SFU Learn on Play Store.
+    • For iOS Users: Download the app from the Apple App Store using this link: SFU Learn on Apple Store.
+2. Steps to Register and Obtain the Digital Student Card:
+Step 1: Registration
+    • Use the email and password provided by the institution (the default password is set to 123456).
+    • The student should change their password after logging in.
+    • Once logged in, additional personal information will need to be filled out to complete the registration process.
+Step 2: Profile Update
+    • After logging in, the student needs to update their profile, including uploading a photo for the student card.
+    • If any personal information (like date of birth) is incorrect, it can be edited. However, some information (e.g., name, NRC, and email) cannot be changed by the student. These fields need to be updated by contacting the institution.
+Step 3: Digital Student Card
+    • Once the profile is updated and saved, the student will receive their Digital Student Card.
+    • Students can view and download their card directly from the application.
+    • The student can also toggle between the front and back views of the card if needed.
+3. Password Management:
+    • Change Password: The student can change their password through the settings.
+    • Forgot Password: If the student forgets their password, they can use the Forgot Password option to reset it. The password reset link will be sent to the student's registered email address.
+4. Contact Information:
+    • If there are any issues with the student’s details, they are instructed to contact the respective departments at the institution (e.g., for corrections to personal data).
+5. Logout:
+    • The student can log out from the application at any time via the settings menu.
+
+The Strategy First Learn Backend User Guide provides comprehensive instructions for managing and using various features of the SFU Learn Backend System. Below is a breakdown of key sections and functionalities covered in the document:
+1. Corporate Discount Management:
+    • Creating a Corporate Discount:
+        ◦ Admins can create corporate discounts by specifying a category name, discount percentage, and logo. These discounts can be activated or deactivated based on the status.
+        ◦ Inactive Discounts: Discounts that are not active will not be visible to users.
+2. Event Management:
+    • Creating Events:
+        ◦ Admins can create events by filling out details such as:
+            ▪ Event Title, Address, Type (Online or Campus-based), and Event Time.
+            ▪ Admins can upload an event image and set start and end dates for the event.
+            ▪ There is also an option to set a deposit amount and a registration deadline.
+        ◦ User Registration:
+            ▪ Admins can track registered users, their points, and their deposit status.
+        ◦ Importing Points:
+            ▪ Points can be imported for users attending events. Admins can manage point distribution.
+3. Campus Store Management:
+    • Adding Campus Store Categories:
+        ◦ Admins can add new categories for campus store items and rank them accordingly.
+    • Adding Items to Campus Store:
+        ◦ For each item, admins can specify the name, price, description, color, size, and image.
+        ◦ The status of items can be set to active or inactive.
+    • Managing Store Inventory:
+        ◦ Admins can view and edit the store inventory as necessary.
+4. User Management:
+    • Student List:
+        ◦ Admins can manage student profiles, view their point histories, and track wallet transactions.
+    • Role Management:
+        ◦ Users can be assigned different roles, such as student or staff, within the system.
+5. Wallet Management:
+    • Wallet Transactions:
+        ◦ Admins can add new wallet transactions, including deposits and withdrawals, and track their history.
+        ◦ Top-up Function:
+            ▪ Wallet top-ups can be managed by scanning QR codes and uploading screenshots for verification. Once verified, the top-up is approved.
+    • Status Updates:
+        ◦ Transactions are marked as approved or rejected based on verification.
+6. Newsfeed Management:
+    • Posting on Newsfeed:
+        ◦ Admins can create posts for the newsfeed, adding text, images, or videos. These posts can be categorized by type (text, image, or video) and then saved.
+7. Reels and Slider Management:
+    • Creating Reels:
+        ◦ Admins can create and upload reels for the newsfeed, specifying details like title, description, and thumbnail images.
+    • Managing Sliders:
+        ◦ Sliders for the newsfeed can be created by adding images and links to external sites like social media or the university's website.
+8. Suggestions and Feedback:
+    • Managing Suggestions:
+        ◦ Admins can view and reply to user suggestions. Feedback and replies can be posted directly through the backend system.
+9. Splash Screen Management:
+    • Adding Splash Screens:
+        ◦ Admins can manage the splash screen displayed when users first open the SFU Learn application, including image uploads and setting start and end dates.
+10. System Settings:
+    • Settings and Updates:
+        ◦ Admins can adjust system settings, including configuring the display of splash screens, managing events, and updating user profiles
+how to manage and set up the canteen menu within the SFU Learn system. Below is a breakdown of the key points:
+1. Setting Up the Canteen Menu:
+    • The canteen menu must be set up and managed through the SFU Learn Backend System.
+    • A category for the canteen menu must be created first. This helps organize menu items based on their type (e.g., "Everyday", "Pre-order").
+    • For each category, the admin must ensure it is set up correctly for visibility, and items within the category can be activated or deactivated.
+2. Adding Menu Categories:
+    • To add a new menu category:
+        ◦ The admin needs to enter a category name and assign a rank (which determines its position in the menu).
+        ◦ The category can be activated or deactivated based on its availability.
+3. Adding Menu Items:
+    • After setting up the category, the admin can proceed to add individual menu items.
+        ◦ For each menu item, the following details must be filled out:
+            ▪ Name: The name of the item.
+            ▪ Price: The cost of the item.
+            ▪ Rank: The rank or position of the item in the menu.
+            ▪ Status: Set the item as either active (visible to users) or inactive (not visible).
+        ◦ Pre-order: If the item is available for pre-order, this option should be selected.
+4. Menu Visibility and Management:
+    • Menu items and categories can be set to inactive if they are not available at the moment. When an item or category is inactive, it will not appear on the users' menus.
+    • The admin can also manage the visibility of the menu based on the time of day (e.g., if it's available only during certain hours or days).
+    • Each menu item can be edited as needed to adjust prices, descriptions, or status.
+5. Saving Changes:
+    • After creating or editing a category or item, the admin should press the Save button to finalize the changes and ensure the updates reflect in the canteen system.
+6. Other Considerations:
+    • It's important for the admin to ensure that the category and menu items are set up properly so they can be accessed and used by students.
+    • Regular updates to the menu may be necessary to ensure that the items listed are current and available to users
