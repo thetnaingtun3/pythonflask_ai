@@ -6,7 +6,7 @@ The Owner of Strategy First International College is U Aung Chit Khin.
 
 Who We Are
 About Strategy First International College Strategy First is one of the leading private international colleges in Myanmar, providing a diverse range of business, management, and IT programs in Yangon and Mandalay. Established in 2010, Strategy First aims to become a world-class institution. Over the years, it has built a strong reputation for academic excellence, innovative programs, and commitment to student success.
-Strategy First is a private professional and higher educational university, that has been providing a productive alternative to higher education since 2010 by Mr. Aung Chit Khin, whose genuine desire is to contribute to Myanmar’s advancement and to create opportunities for learners.
+Strategy First is a private professional and higher educational International College, that has been providing a productive alternative to higher education since 2010 by Mr. Aung Chit Khin, whose genuine desire is to contribute to Myanmar’s advancement and to create opportunities for learners.
 
 Strategy First was officially announced as ‘Strategy First University’ in March 2019. Strategy First delivers a unique learning experience for Myanmar citizens to study and earn postgraduate degrees, bachelor degrees, diplomas and certificates that are accredited by competitive international partners and respected globally while working in their home country. It offers undergraduate, postgraduate, and professional diploma programmes; for students and working professionals at various stages of life. Each program upholds the same high standard of learning and prepares students to compete on an international level. 
 The vision of Strategy First is to be the number one international college in Myanmar, providing quality education for generations to come, making a positive impact globally through its students’ contributions.
@@ -323,10 +323,10 @@ Contact Information:
 - Email: info@strategyfirst.edu.mm
 - Website: https://strategyfirst.edu.mm/A-Link-Education-Consultancy
 
-Strategy First University (SFU) / Strategy First International College (SFIC) - Detailed
+Strategy First International College (SFU) / Strategy First International College (SFIC) - Detailed
 Educational and Administrative Overview
 1. About Us:
-- Strategy First University is a leading private educational institution in Myanmar.
+- Strategy First International College is a leading private educational institution in Myanmar.
 - Established in 2010, rebranded in 2019 to reflect its broader academic scope.
 - Offers undergraduate, postgraduate, and professional programs.
 - Partnered with international institutions such as the University of Wolverhampton.
@@ -381,12 +381,12 @@ Mandalay:
 - Enrollment portal: https://enroll.strategyfirst.edu.mm
 - Postgraduate portal: https://pg.strategyfirst.edu.mm
 - SFUx online learning: https://sfux.strategyfirst.edu.mm
-Strategy First University (SFU) / Strategy First International College (SFIC) - Comprehensive
+Strategy First International College (SFU) / Strategy First International College (SFIC) - Comprehensive
 Overview
 1. About SFU/SFIC:
 - Private higher education institution in Myanmar.
 - Campuses: Yangon, Mandalay, .
-- Founded in 2010; rebranded as Strategy First University in 2019.
+- Founded in 2010; rebranded as Strategy First International College in 2019.
 - Offers undergraduate, postgraduate, and professional development programs.
 2. Academic Programs:
 2.1 Undergraduate Programs:
@@ -438,10 +438,10 @@ Mandalay:
 - What international partners does SFU work with?
 
 - What support services are available for students?
-Strategy First University (SFU) Overview:
+Strategy First UniversitInternational College (SFU) Overview:
 - SFU is a private higher education institution based in Myanmar with campuses in Yangon,
 Mandalay
-- Established in 2010, officially named "Strategy First University" in 2019.
+- Established in 2010, officially named "Strategy First International College" in 2019.
 - Offers bachelor's and master's degrees in business and IT, professional diplomas, and
 certificates.
 Programs Offered:
@@ -486,7 +486,7 @@ Contact Information:
 - Enrollment: https://enroll.strategyfirst.edu.mm
 - Postgraduate: https://pg.strategyfirst.edu.mm
 
-Strategy First University - Key Student Services and Academic Information
+Strategy First International College - Key Student Services and Academic Information
 1. Scholarships:
 - SFU offers both merit-based and need-based scholarships to qualified students.
 - Scholarships are available for undergraduate and postgraduate programs.
@@ -538,7 +538,7 @@ arts, and community service.
 These partnerships allow SFU students to pursue internationally recognized qualifications and
 even complete degrees abroad through progression routes.
 
-Strategy First University - MBA Program and Student Life Information
+Strategy First International College - MBA Program and Student Life Information
 1. MBA Program Installment Plan:
 - SFU offers flexible installment plans for the MBA program.
 - Students can pay tuition in multiple parts over the course of the academic year.
@@ -589,3 +589,385 @@ Contact Information for Further Details:
 - Email: info@strategyfirst.edu.mm
 - Phone: 09-250717166 / 167 / 168
 - Website: https://strategyfirst.edu.mm
+
+Strategy First International College - Undergraduate Programs and International Opportunities
+1. Engineering Programs:
+- As of now, SFIC primarily focuses on Business and IT-related disciplines.
+- Engineering-specific programs (e.g., Civil, Electrical, Mechanical) are not currently offered.
+- However, SFU provides specialized courses in project management, construction, and
+structural design as part of professional diploma offerings.
+2. Specialized IT Bachelor’s Degrees:
+- SFIC offers industry-relevant IT degree pathways including:
+- BSc (Hons) Computer Science (via NCC & University of Greenwich)
+- BSc (Hons) Business Computing and Information Systems
+- These programs are designed to blend IT with business applications, programming, data
+analysis, and software development.
+3. Admission Requirements for Undergraduate Programs:
+- Completion of high school or equivalent (local or international).
+- Basic proficiency in English (placement test or recognized certifications like IELTS).
+- Some diploma or degree pathways may require an entrance interview or written assessment.
+- Foundation programs available for students needing additional preparation.
+4. Credit Transfer for Undergraduate Programs:
+- SFU considers transfer credits for students from other recognized institutions.
+- Applicants must submit official transcripts, course outlines, and syllabi.
+- Credit transfer decisions are made after academic evaluation by the faculty office.
+5. Ferry Plan:
+- SFU provides a “Ferry Plan” allowing students to start a diploma or degree locally and
+complete it abroad.
+- For example, students can start an NCC or ABE program in Myanmar and then transfer to the
+UK or another country for final year(s).
+6. Study Abroad / International Progression:
+- Through partnerships with NCC Education, ABE, and UK universities, students can:
+- Complete part of their studies at SFIC.
+- Progress to universities in the UK, Canada, Australia, Singapore, etc.
+- SFU assists with academic planning, applications, and visa procedures.
+
+Popular partner universities include:
+- University of Wolverhampton
+- University of Greenwich
+- Universities affiliated with NCC and ABE progression routes
+Contact:
+- Email: info@strategyfirst.edu.mm
+- Website: https://strategyfirst.edu.mm
+- Phone: 09-250717166 / 167 / 168Undergraduate Program, Strategy First
+
+
+
+The SFU Wallet - SFU Learn Backend User Manual contains detailed instructions on how to manage and utilize various features in the SFU Learn backend system. Here are the main sections covered in the document:
+    1. Newsfeed Management:
+        ◦ Adding Text: Instructions for adding text, including the title and description, and saving it.
+        ◦ Adding Images: Guidance on uploading images to the newsfeed, selecting a title, and description.
+        ◦ Adding Videos: Steps for uploading videos to the newsfeed.
+        ◦ Image Sliders: Instructions for adding an image slider to the newsfeed.
+    2. Event Management:
+        ◦ Creating Events: Instructions on setting up events, including setting event types (online or campus), start/end dates, and points systems for participants.
+        ◦ User Registration for Events: How to view and manage the list of users who registered for events.
+        ◦ Importing Points: How to import points for events and users.
+    3. User Points and Wallet:
+        ◦ User Points: Tracking and managing the points earned by users through events.
+        ◦ Import Points: Steps to import points for users and manage their wallet balances.
+        ◦ Wallet Top-up: Detailed instructions on how to top up user wallets through QR scans and transaction approvals.
+        ◦ Canteen Wallet: Managing the wallet system for canteen transactions, including history and top-ups.
+    4. Menu Management:
+        ◦ Adding Menu Categories: Creating categories for menu items, such as "Everyday" or "Pre-order".
+        ◦ Adding Menu Items: Instructions on adding and managing individual items in the canteen menu, including setting prices and statuses.
+    5. System Setup and Maintenance:
+        ◦ Scanner Application: Instructions on how to download and set up the SFU scanner app for point tracking and wallet management.
+        ◦ Profile Management: How to manage user profiles, including editing details and resetting passwords.
+These are the key points from the SFU Wallet - SFU Learn Backend User Manual. If you need further clarification or help on a specific section, feel free to let me know!
+
+The SFU Wallet - SFU Learn Backend User Manual provides comprehensive instructions for managing various aspects of the SFU Learn platform, specifically regarding the backend functionality. Below is a detailed explanation in English of the key features outlined in the manual:
+1. Newsfeed Management:
+    • Adding Text:
+        ◦ Users can create text posts for the newsfeed by providing a title and description. Once these are entered, the user can select the text and click the Save button to post it.
+    • Adding Images:
+        ◦ Users can upload images to the newsfeed. The process includes adding a title and description, selecting the image, uploading it, and saving the changes.
+    • Adding Videos:
+        ◦ Users can also post videos to the newsfeed. The process involves uploading video files and saving the post.
+    • Image Slider:
+        ◦ An image slider can be added to the newsfeed. This is typically used for displaying multiple images in a slideshow format.
+2. Event Management:
+    • Creating Events:
+        ◦ Events can be created by entering the event's title, description, location, and date. The event can be categorized as either an online event (e.g., via Zoom) or a campus event.
+        ◦ Point systems can be applied to events, allowing users to earn points for attending.
+        ◦ Event details such as start and end dates, registration deadlines, and deposit amounts are all configurable.
+    • User Registration:
+        ◦ Once an event is created, users can register for the event. The system tracks which users have registered, and admins can view and manage this list.
+    • Event User Points:
+        ◦ Points earned by users attending events can be managed and imported into the system.
+3. Wallet Management:
+    • User Wallet:
+        ◦ Users can top-up their wallets via QR code scanning. Admins can approve wallet top-ups by verifying the transaction details.
+        ◦ Users’ wallet balances are updated once the top-up is approved.
+    • Wallet History:
+        ◦ Admins can view the wallet history for users, which includes records of top-ups, withdrawals, and transactions.
+    • Canteen Wallet:
+        ◦ The system also tracks canteen wallet transactions. This is useful for managing payments in the campus canteen, where students can use their wallet balances to make purchases.
+4. Menu Management:
+    • Menu Categories:
+        ◦ Admins can create categories for menu items, such as "Everyday" or "Pre-order". This helps organize the menu and ensures users can easily find different types of food items.
+    • Adding Menu Items:
+        ◦ Each menu item can be added with a name, price, description, rank (for ordering), and availability status (active or inactive). Menu items are displayed based on their category.
+5. Scanner Application:
+    • SFU Scanner App:
+        ◦ The SFU Scanner App is used for QR code scanning and for tracking point distributions when users make purchases or attend events. The app helps integrate the wallet system and point system with physical activities (like scanning QR codes at events or for transactions).
+6. User Profile Management:
+    • Profile Updates:
+        ◦ Students can update their profiles, including their names, dates of birth, photos, and other personal information. This is required for students to receive their digital student cards.
+    • Password Reset:
+        ◦ If students forget their passwords, they can reset them using the Forgot Password feature. This will send a recovery email to their registered email address.
+7. System Settings and Notifications:
+    • Student Card:
+        ◦ Students can create and manage their digital student card via the SFU Learn app, which requires them to update their profile with the correct personal information.
+    • Settings and Contact:
+        ◦ Students can change their passwords or contact the school for further support if their account details need to be updated.
+8. Corporate Discount Management:
+    • Discount Setup:
+        ◦ Admins can create and manage corporate discount categories. This feature allows businesses to offer discounts to students or other users. Admins can specify the discount percentage, upload the discount logo, and mark the discount as either active or inactive.
+9. Event Registration and User Points:
+    • Points History:
+        ◦ Admins can view users' point histories, which track how many points users have earned through events, and monitor how these points contribute to their wallet balances
+The Student Card Application.pptx document provides detailed instructions on how to obtain a digital student card via the SFU Learn Application. Below is a breakdown of the key points:
+1. Downloading the SFU Learn Application:
+    • For Android Users: Download the app from the Google Play Store using this link: SFU Learn on Play Store.
+    • For iOS Users: Download the app from the Apple App Store using this link: SFU Learn on Apple Store.
+2. Steps to Register and Obtain the Digital Student Card:
+Step 1: Registration
+    • Use the email and password provided by the institution (the default password is set to 123456).
+    • The student should change their password after logging in.
+    • Once logged in, additional personal information will need to be filled out to complete the registration process.
+Step 2: Profile Update
+    • After logging in, the student needs to update their profile, including uploading a photo for the student card.
+    • If any personal information (like date of birth) is incorrect, it can be edited. However, some information (e.g., name, NRC, and email) cannot be changed by the student. These fields need to be updated by contacting the institution.
+Step 3: Digital Student Card
+    • Once the profile is updated and saved, the student will receive their Digital Student Card.
+    • Students can view and download their card directly from the application.
+    • The student can also toggle between the front and back views of the card if needed.
+3. Password Management:
+    • Change Password: The student can change their password through the settings.
+    • Forgot Password: If the student forgets their password, they can use the Forgot Password option to reset it. The password reset link will be sent to the student's registered email address.
+4. Contact Information:
+    • If there are any issues with the student’s details, they are instructed to contact the respective departments at the institution (e.g., for corrections to personal data).
+5. Logout:
+    • The student can log out from the application at any time via the settings menu.
+
+The Strategy First Learn Backend User Guide provides comprehensive instructions for managing and using various features of the SFU Learn Backend System. Below is a breakdown of key sections and functionalities covered in the document:
+1. Corporate Discount Management:
+    • Creating a Corporate Discount:
+        ◦ Admins can create corporate discounts by specifying a category name, discount percentage, and logo. These discounts can be activated or deactivated based on the status.
+        ◦ Inactive Discounts: Discounts that are not active will not be visible to users.
+2. Event Management:
+    • Creating Events:
+        ◦ Admins can create events by filling out details such as:
+            ▪ Event Title, Address, Type (Online or Campus-based), and Event Time.
+            ▪ Admins can upload an event image and set start and end dates for the event.
+            ▪ There is also an option to set a deposit amount and a registration deadline.
+        ◦ User Registration:
+            ▪ Admins can track registered users, their points, and their deposit status.
+        ◦ Importing Points:
+            ▪ Points can be imported for users attending events. Admins can manage point distribution.
+3. Campus Store Management:
+    • Adding Campus Store Categories:
+        ◦ Admins can add new categories for campus store items and rank them accordingly.
+    • Adding Items to Campus Store:
+        ◦ For each item, admins can specify the name, price, description, color, size, and image.
+        ◦ The status of items can be set to active or inactive.
+    • Managing Store Inventory:
+        ◦ Admins can view and edit the store inventory as necessary.
+4. User Management:
+    • Student List:
+        ◦ Admins can manage student profiles, view their point histories, and track wallet transactions.
+    • Role Management:
+        ◦ Users can be assigned different roles, such as student or staff, within the system.
+5. Wallet Management:
+    • Wallet Transactions:
+        ◦ Admins can add new wallet transactions, including deposits and withdrawals, and track their history.
+        ◦ Top-up Function:
+            ▪ Wallet top-ups can be managed by scanning QR codes and uploading screenshots for verification. Once verified, the top-up is approved.
+    • Status Updates:
+        ◦ Transactions are marked as approved or rejected based on verification.
+6. Newsfeed Management:
+    • Posting on Newsfeed:
+        ◦ Admins can create posts for the newsfeed, adding text, images, or videos. These posts can be categorized by type (text, image, or video) and then saved.
+7. Reels and Slider Management:
+    • Creating Reels:
+        ◦ Admins can create and upload reels for the newsfeed, specifying details like title, description, and thumbnail images.
+    • Managing Sliders:
+        ◦ Sliders for the newsfeed can be created by adding images and links to external sites like social media or the university's website.
+8. Suggestions and Feedback:
+    • Managing Suggestions:
+        ◦ Admins can view and reply to user suggestions. Feedback and replies can be posted directly through the backend system.
+9. Splash Screen Management:
+    • Adding Splash Screens:
+        ◦ Admins can manage the splash screen displayed when users first open the SFU Learn application, including image uploads and setting start and end dates.
+10. System Settings:
+    • Settings and Updates:
+        ◦ Admins can adjust system settings, including configuring the display of splash screens, managing events, and updating user profiles
+how to manage and set up the canteen menu within the SFU Learn system. Below is a breakdown of the key points:
+1. Setting Up the Canteen Menu:
+    • The canteen menu must be set up and managed through the SFU Learn Backend System.
+    • A category for the canteen menu must be created first. This helps organize menu items based on their type (e.g., "Everyday", "Pre-order").
+    • For each category, the admin must ensure it is set up correctly for visibility, and items within the category can be activated or deactivated.
+2. Adding Menu Categories:
+    • To add a new menu category:
+        ◦ The admin needs to enter a category name and assign a rank (which determines its position in the menu).
+        ◦ The category can be activated or deactivated based on its availability.
+3. Adding Menu Items:
+    • After setting up the category, the admin can proceed to add individual menu items.
+        ◦ For each menu item, the following details must be filled out:
+            ▪ Name: The name of the item.
+            ▪ Price: The cost of the item.
+            ▪ Rank: The rank or position of the item in the menu.
+            ▪ Status: Set the item as either active (visible to users) or inactive (not visible).
+        ◦ Pre-order: If the item is available for pre-order, this option should be selected.
+4. Menu Visibility and Management:
+    • Menu items and categories can be set to inactive if they are not available at the moment. When an item or category is inactive, it will not appear on the users' menus.
+    • The admin can also manage the visibility of the menu based on the time of day (e.g., if it's available only during certain hours or days).
+    • Each menu item can be edited as needed to adjust prices, descriptions, or status.
+5. Saving Changes:
+    • After creating or editing a category or item, the admin should press the Save button to finalize the changes and ensure the updates reflect in the canteen system.
+6. Other Considerations:
+    • It's important for the admin to ensure that the category and menu items are set up properly so they can be accessed and used by students.
+    • Regular updates to the menu may be necessary to ensure that the items listed are current and available to users
+
+
+*Please note, the partnership with the University of Wolverhampton is currently subject to final
+validation approval, and we look forward to confirming the full details upon successful
+completion of this process.*
+Strategy First International College is proud to become an Authorized Training Partner (ATP) of
+the Project Management Institute (PMI)®. This enables us to offer the globally recognised
+Project Management Professional (PMP)® preparation course, empowering professionals with
+the skills and knowledge essential for success in project management. Our courses provide a
+comprehensive pathway to PMP certification, ensuring students are well-prepared to advance
+their careers in the field of project management.
+The Institute of Commercial Management provides a wide range of professional and vocational
+awards in Business and Management subjects and areas. ICM programmes are designed to
+address the wide variety of personal development and training needs of those wishing to enter
+the commercial sector, and to support the continued development and workplace flexibility of
+those already in employment.
+Strategy First Mandalay is an IELTS Testing Point Partner of British Council Myanmar. It has
+been running the IELTS computer-based tests for IELTS candidates in Mandalay, SFU
+Mandalay Teaching Centre 2 on 25 September 2023.
+Since the start of Strategy First International College in 2010, we have collaborated closely with
+the Institute of Commercial Management (ICM, UK) to provide a diverse range of single-subject
+diploma programs to foster individual development in Myanmar.
+Strategy First Professional Diploma
+Strategy First Professional Diploma in Business Management & Entrepreneurship (Online)
+935,000 MMK
+img
+Strategy First Professional Diploma in Design of Building Structures (New Programme)
+Online
+1,500,000 MMK
+img
+Strategy First Professional Diploma in Applied Construction Management (New Programme)
+Online
+1,500,000 MMK
+img
+Strategy First Professional Diploma in Digital Business (New Programme) Online
+1,075,000 MMK
+img
+Strategy First Professional Diploma in Strategic Management and Leadership (Online)
+935,000 MMK
+img
+Strategy First Professional Diploma in Logistics and Supply Chain Management (Online)
+935,000 MMK
+img
+Strategy First Professional Diploma in Human Resources Management and Development
+(Online)
+
+935,000 MMK
+img
+Strategy First Professional Diploma in Project Management (Online)
+935,000 MMK
+img
+Strategy First Professional Diploma in Financial Management (Online)
+935,000 MMK
+img
+Strategy First Professional Diploma in Marketing and Sales Management (Online)
+935,000 MMK
+img
+Strategy First Professional Diploma in Marketing and Brand Management (Online)
+935,000 MMK
+ICM Professional Diploma
+ICM - Professional Diploma in Human Resources Management with Human Resoruce
+Development (Online)
+935,000 MMK
+img
+ICM - Professional Diploma in Purchasing with Logistics & Supply Chain Management
+(Online)
+935,000 MMK
+img
+ICM - Professional Diploma in Marketing with Sales Management (Online)
+935,000 MMK
+img
+ICM Professional Diploma in Accounting with Financial Management (Online)
+935,000 MMK
+img
+ICM Professional Diploma in Business Management with Project Management (In-person)
+985,000 MMK
+img
+ICM - Professional Diploma in Business Management with Human Resources Management
+(In-person)
+985,000 MMK
+Strategy First Certificate
+Strategy First Certificate in Business Ethics
+200,000 MMK
+img
+Strategy First Certificate in Risk Analytics for Business with AI
+200,000 MMK
+img
+Strategy First Certificate in Own Business Management
+
+435,000 MMK
+img
+Strategy First Certificate in Operation Analytics for Business with AI
+200,000 MMK
+img
+Strategy First Certificate in Human Resources Management in Practice
+395,000 MMK
+img
+Strategy First Certificate in Financial Modeling and Valuation with AI
+200,000 MMK
+
+Strategy First English Language Proficiency Courses
+Strategy First Certificate in English Language Proficiency - Pre-intermediate (In person),
+Batch 6
+380,000 MMK
+img
+Strategy First Certificate in English Language Proficiency - Pre-intermediate (Online)
+350,000 MMK
+img
+Strategy First Certificate in English Language Proficiency - Elementary (Online)
+320,000 MMK
+For further inquiries or application details, please visit the Strategy First website at
+https://strategyfirst.edu.mm/
+
+
+Greeting  မင်္ဂလာပါခင်ဗျာ။ Strategy First international college မှ ကြိုဆိုပါတယ်။ Strategy First international college မှ ဖွင့်လှစ်ထားသော သင်တန်းလေးနဲ့ပါတ်သက်ပြီး သိလိုတာများကိုအသေးစိတ်မေးထားနိုင်ပါတယ်ခင်ဗျာ။
+HRMP Certificate   SFU Certificate in Human Resources Management in Practice အတန်းလေးကတော့ Certificate အတွက်ဆို သက်မှတ်ထားတဲ့ zoom အတန်းချိန်လေးကို ပြည့်မှီအောင် တက်ရောက်ပေးရမှာဖြစ်ပြိး attendance ပြည့်မှီပါက Certificate လေး ရရှိမှာ ဖြစ်ပါတယ်ခင်ဗျာ။
+Top Up programme   Top Up programme ကတော့ မိမိတက်ရောက်ဖို့ ရွေးချယ်ထားတဲ့ ကျောင်းရဲ့ criteria ပေါ်မူတည်ပါတယ်ခင်ဗျာ။ မိမိရွေးချယ်ထားတဲ့ ကျောင်းမှာ Top Up programme ရှိရင်တော့ တက်ရောက်လို့ရနိုင်ပါတယ်ခင်ဗျာ။
+Final Year international college   Business Administration ရဲ့ final year ကို international college of Hertfordshire နဲ့ချိတ်ဆက်ထားပါတယ်ခင်ဗျာ။    Computing with Business Management ရဲ့ final year ကို international college of Central   Lancashire နဲ့ချိတ်ဆက်ထားပါတယ်ခင်ဗျာ။  Diploma in Computing ရဲ့ final year ကို international college of Central Lancashire နဲ့ချိတ်ဆက်ထားပါတယ်ခင်ဗျာ။
+DM SFUx  SFUx Certificate in Digital Marketing Communications in Practice 2.0 အတန်းလေးတော့ရှိပါတယ်ခင်ဗျာ။ သင်တန်းကာလကာလမှာ ၃ လခွဲ ဖြစ်ပြီး သင်တန်းကြေးလေးကတော့ ၈၈၅၀၀ကျပ် ဖြစ်ပါတယ်ခင်ဗျာ။
+အလုပ်ကိုင်အခွင့်လမ်း   Bachelor  ဘွဲ့ကတော့ UK နိုင်ငံမှပေးအပ်သည့် ဘွဲ့ဖြစ်ပါတယ်ခင်ဗျာ။ ကျောင်းတွင်သင်ကြားသည့် ဘာသာရပ်သင်ခန်းစာများကိုလည်း  လုပ်ငန်းခွင်ထဲတွင် လက်တွေ့ ပြန်လည်အသုံးချနိုင်မှာ ဖြစ်သည့်အတွက် ဘွဲ့ရရှိပြီးပါက လုပ်ငန်းခွင်းဝင်ရောက်ရာတွင်လည်း အဆင်ပြေနိုင်ပါသည်ခင်ဗျာ။ မိမိလုပ်ကိုင်လိုသည့် Career တွင်လည်း စာတွေ၊ လက်တွေ့ အတွေ့အကြုံများရှိထားပါက လုပ်ငန်းခွင်ဝင်ရောက်သည့်အခါ ပိုမိုလွယ်ကူနိုင်မှာပါ ဖြစ်ပါတယ်ခင်ဗျာ။
+Business Certi and dip    Business Management အတန်းများနဲ့ပတ်သတ်ပြီး - ICM Single Subject Diploma in Busniess Management and Administration - SFU Professional Diploma in Business Management & Entrepreneurship - SFU Certificate in Own Business Management  - SFUx Certificate in Essentials of Management - SFUx Certificate in General Management  - SFUx Certificate in Business Essentials and Employability Skills - SFUx Certificate in Economics for Business အတန်းလေးတွေရှိပါတယ်ခင်ဗျာ။  ဘယ်ဘာသာရပ်လေးတွေနဲ့ ပါတ်သက်ပြီး စိတ်ဝင်စားပါသလဲခင်ဗျာ။
+Pre-IGCSE မင်္ဂလာပါခင်ဗျာ။  Pre-IGCSE အတန်းကို -  - Grade-7 အောင်မြင်ပြီး ကျောင်းသား၊သူများ  - Grade-8 တက်ရောက်နေဆဲ ကျောင်းသား၊သူများ  - Grade-8 အောင်မြင်ပြီး ကျောင်းသား၊သူများ  - Grade-9 တက်ရောက်နေဆဲ ကျောင်းသား၊သူများ နှင့် - IGCSE တက်ရောက်ရန် ပြင်ဆင်နေသူများအတွက် စနစ်တကျဖြေဆိုနိုင်အောင်သင်ကြားပေးမှာဖြစ်ပြီး ကျောင်းသား၊ကျောင်းသူတို့ကို ထိရောက်တဲ့သင်ကြားမှုနှင့် ဂရုစိုက်မှုများပေးနိုင်အောင် ကျောင်းသားဦးရေများကို ကန့်သတ်လက်ခံပေးသွားမှာဖြစ်ပါတယ်ခင်ဗျာ။   သင်တန်းချိန် အပတ်စဉ် - တနင်္လာနေ့ မှ သောကြာနေ့ အချိန် - မနက် 8 နာရီမှ ညနေ 4 နာရီအတွင်း  သင်တန်းတက်ရမည့်နေရာ အမှတ်(၁၄၂-၁၄၆)၊ ဆူးလေဘုရားလမ်း၊ ကျောက်တံတားမြို့နယ်။  သင်ကြားပေးသွားမည့် ဘာသာရပ်များ - 1. English as a Second Language (ESL) / General 4 skills English 2. Mathematics 3. Science (Biology, Physics and Chemistry) 4. Digital Technology (ICT) 5. Global Perspectives (critical thinking) 6. Myanmar Language 7. Introduction to Business and Accounting ဘာသာရက်လေးတွေ ဖြစ်ပါတယ်ခင်ဗျာ။
+enroll link မင်္ဂလာပါခင်ဗျာ။  Strategy First international college မှ ဖွင့်လှစ်ထားသော  - SFU Professional Diploma - ICM Single Subject Diploma - SFU Certificate - Own Business Management သင်တားများကို https://enroll.strategyfirst.edu.mm/ မှတဆင့် ဝင်ရောက်လေ့လာနိုင်ပါတယ်ခင်ဗျာ။
+Programmes  မင်္ဂလာပါခင်ဗျာ။ Strategy First international college တွင် ဖွင့်လှစ်ထားသော Programme များကတော့   Bachelor Programme (Online)  Bachelor Programme (On campus)    ICM Single Subject Diploma Programme (Online)  ICM Single Subject Diploma Programme (On campus)  SFU Professional Diploma Programme (Online)  SFU Certificate in Own Business Management (Online)  SFU Certificate Programme (Online)  NCC Level-3 International Foundation Diploma Programme (Online)  Pre-IGCSE, IGCSE Diploma Programme (Online, On Campus)  SFUx Certificate Programme (Online) Programme လေးများသင်ကြားပေးနေပါသည်ခင်ဗျာ။ မည်သည့် Programme လေးများနဲ့ ပါတ်သက်ပြီး သိရှိလိုပါသလဲခင်ဗျာ။ 
+UG Category မင်္ဂလာပါခင်ဗျာ။ Strategy First international college တွင် ဖွင့်လှစ်ထားသော  Bachelor  အတန်းလေးများမှာ - Business Administration - Computing with Business Management  - Computing စသည့် Bachelor အတန်း လေးများရှိပါတယ်ခင်ဗျာ။  မည်သည့်အတန်းလေများးနဲ့ ပတ်သက်ပြီး သိရှိလိုပါသလဲခင်ဗျာ။
+UG Regi Form - December မင်္ဂလာပါခင်ဗျာ။  Strategy First international college မှ ဇူလိုင်လ တွင် ဖွင့်လှစ်မည့် Bachelors' Programmes အတန်းများ အတွက် Register ပြုလုပ်ရန်   Registration Form Link ✅ https://forms.gle/UuVtXVMFcZzwCnV69   Registration Form ဖြည့်စွက်သည့်အခါတွင် မိမိတက်ရောက်မည့် Bachelors' Programme ကိုသာ ရွေးချယ်ပြီး Register ပြုလုပ်ပေးရမှာ ဖြစ်ပါတယ်ခင်ဗျာ။      🚨အထက်ပါ Form တွင် ဝင်ခွင့်စာမေးပွဲ ဖြေဆိုရန် Entrance Test Link ပါ ပူးတွဲပါရှိမည် ဖြစ်ပါသဖြင့် Registration ပြုလုပ်ပြီးပါက ဝင်ခွင့်စာမေးပွဲ (Entrance Test) ကိုပါ တစ်ခါတည်း ဖြေဆိုနိုင်မည် ဖြစ်ပါသည်။ ဝင်ခွင့်စာမေးပွဲ (Entrance Test) ဖြေဆိုအောင်မြင်ပြီးပါက (၃) ရက်အတွင်း Interview ဖြေဆိုပေးရပါမည်။ Entrance Test နှင့် Interview ဖြေဆိုအောင်မြင်မှသာလျှင် အတန်းတက်ရောက်ခွင့်ရရှိမည် ဖြစ်ပါသည်။  Registration Form ဖြည့်စွက်ရာတွင် အဆင်မပြေမှု့တစုံတရာရှိပါက ၀၉ ၇၆၅၄၃၈၀၀၀ သို့  ရုံးချိန်အတွင်း ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်ခင်ဗျာ။။
+After Sale (PD, ICM) Wel ပါ မင်္ဂလာပါခင်ဗျာ။ သင်တန်းလေးအပ်နှံပေးတဲ့အတွက်ကျေးဇူးတင်ပါတယ်ခင်ဗျာ။  Payment Receipt လေးကိုတော့ Finance ဘက်ကနေ တစ်ပါတ်အတွင်း  Email လေးပို့ပေးသွားမှာ ဖြစ်ပါတယ်ခင်ဗျာ။  အတန်းနဲ့ ပတ်သတ်တဲ့ Information လေးတွေပါတဲ့  welcome mail လေးကိုတော့ email လေး ပို့ပေးလိုက်ပါပြီခင်ဗျာ။ email ရဲ့ inbox ထဲမှာ မတွေ့ပါက spam mail လေးထဲမှာ စစ်ကြည့်ပေးပါခင်ဗျာ။ အဆင်မပြေတာလေးတွေရှိပါက 09250717168, 09444555612 ဖုန်းလေးကိုဖြစ်စေ messenger လေးမှ ဖြစ်စေ မေးမြန်းနိုင်ပါသည်ခင်ဗျာ။
+Payment Types သင်တန်းကြေးကို Online ငွေလွှဲဝန်ဆောင်မှုများဖြစ်သည့် -  KBZ Pay – 700 1150 1001  Account Name – SFUx (Merchant Account)  Wave Pay – 09 785 501 555 (QR ပေးကိုနှိပ်၍ ဖုန်းနံပတ် ရိုက်ပြီး ငွေလွဲနိုင်ပါသည်) Account Name  : Strategy First Education Group Co.,Ltd  AYA Pay : 20018198 U Aung Chit Khin   Mobile Banking များဖြင့်ပေးချေလိုပါက -  - AYA Bank AYA Bank – 400 119 440 93  Account Name - Strategy First Education Group Ltd.   - CB Bank CB Bank - 0010 6001 0008 7815  Account Name - U Aung Chit Khin   - KBZ Bank KBZ Bank - 0293 0402 9030 43401  Account Name – Strategy First Education Group Ltd. KBZ Bank - 0291 3902 9030 43401 (Special Cash Account)  -Yoma Bank Account No : 000-910-262-001-020 Account Name : U Aung Chit Khin  -AGD Bank Account No : 325 000 200 013 6011 Account Name : ACK AND CO SERVICES CO.LTD များဖြင့် လွယ်ကူစွာပေးသွင်းနိုင်မှာဖြစ်ပါတယ်။ သင်တန်းကြေးပေးချေပြီးပါက Screenshot ကို Messenger သို့ပို့ပေးရမှာဖြစ်ပါတယ်ခင်ဗျာ။
+Discuss  အတန်းများနဲ့ပတ်သတ်ပြီး အဆင်မပြေမှုများရှိပါက ယခု messenger သို့ လာ၍ဆွေးနွေးလို့ရပါတယ်ခင်ဗျာ။
+3.ph  ဟုတ်ကဲ့ခင်ဗျာ။ လက်ရှိမှာတော့ အတန်းသစ်အတွက် timetable လေးမထွက်သေးပါဘူးခင်ဗျာ။ အတန်းသစ် timetable လေးထွက်တဲ့အခါ ပြန်လည်ဆက်သွယ်ပေးဖို့အတွက် နာမည်၊ ဖုန်းနံပါတ်လေး ပေးထားခဲ့နိုင်ပါတယ်ခင်ဗျာ။ 
+14 ICM Register Link - June and July  ICM Single Subject Diploma June လ နှင့် July လ အတန်းများအတွက် အောက်ပါ Link လေးတွင် အတန်းအပ်နိုင်ပါတယ်ခင်ဗျာ။   https://forms.office.com/r/EY54Q5apww  သင်တန်းအပ်မည်ဆိုပါကဖော်ပြထားသော Form ကိုဖြည့်စွက်ပြီး သင်တန်းတက်ရောက်ခွင့်ရရှိရန်အတွက် မိမိတို့ ရရှိထားသော ဘွဲ့လက်မှတ် (သို့မဟုတ်) ဆယ်တန်းအောင်လက်မှတ်ကို admission.pd@strategyfirst.edu.mm သို့ပို့ပေးရပါမည်။   သင်တန်း Register Form ဖြည့်ပြီးပါက register လုပ်ထားသော နာမည်, ဖုန်းနံပါတ်လေး ကို ယခု messenger သို့ ပေးပို့ပေးပါခင်ဗျာ။ 
+14 PD Register Link - June and July Professional Diploma June လ နှင့် July လ အတန်းများအတွက် အောက်ပါလင့်လေးတွင် အတန်းအပ်နိုင်ပါတယ်ခင်ဗျာ။   https://forms.office.com/r/5tTE87LTzY  သင်တန်းအပ်မည်ဆိုပါကဖော်ပြထားသော Form ကိုဖြည့်စွက်ပြီး သင်တန်းတက်ရောက်ခွင့်ရရှိရန်အတွက် မိမိတို့ ရရှိထားသော ဘွဲ့လက်မှတ် (သို့မဟုတ်) ဆယ်တန်းအောင်လက်မှတ်ကို admission.pd@strategyfirst.edu.mm သို့ပို့ပေးရပါမည်။   သင်တန်း Register Form ဖြည့်ပြီးပါက register လုပ်ထားသော နာမည်၊ဖုန်းနံပါတ်လေးကို ယခု messenger သို့ ပေးပို့ပေးပါခင်ဗျာ။ 
+1.reg ဟုတ်ကဲ့ခင်ဗျာ။ register လုပ်ထားသော ဖုန်းနံပါတ်၊ အမည်၊ Email လေးကိုပေးပို့ပေးပါခင်ဗျာ။ 
+14 PD June , July ဖွင့်မည့်အတန်း  မင်္ဂလာပါခင်ဗျာ။ June နှင့်  July လတွင်ဖွင့်မယ့် online ကနေတက်ရမည့် Strategy First international college Professional Diploma သင်တန်းများကတော့ 1. Business Management & Entrepreneurship  2. Logistics and Supply Chain Management  3. Project Management  4. Financial Management  5. Marketing and Brand Management  6. Marketing and Sales Management ဘာသာရပ်တွေရှိပါတယ်ခင်ဗျာ။  မည်သည့် ဘာသာရပ်လေးကို စိတ်ဝင်စားပါသလဲခင်ဗျာ။
+CSE  Customer service ပိုင်းနဲ့ ပတ်သက်ပြီး  - ICM Single Subject Diploma in Customer Service  - SFUx Certificate in Customer Service Excellence  အတန်းလေးတွေ ရှိပါတယ်ခင်ဗျာ။ မည်သည့်အတန်းလေးကို စိတ်ဝင်စားပါသလဲခင်ဗျာ။ 
+OAB မင်္ဂလာပါခင်ဗျာ။ Strategy First international college တွင်SFU Certificate in Operation Analytics for Business (4 Days Workshop) အတန်းသစ်ကို ဩဂုတ်လ (၁၃) ရက်တွင် ဖွင့်မည်ဖြစ်ပါသည်ခင်ဗျာ။ သင်တန်းနှင့်ပါတ်သက်ပြီး အသေးစိတ် လေ့လာရန် - https://enroll.strategyfirst.edu.mm/yangon/sfu_professional_certificates/certificate_in_operation_analytics_for_business  သင်တန်း အပ်နှံရန် - https://forms.office.com/r/4xbdbPz86M
+Transfer / Repeat  အတန်းလေးကိုပြန်တက်လိုပါက (သို့) transfer ပြောင်းလိုပါက Transfer / Repeat Fees 20000 ks (online) / 30000 ks (on campus) သွင်းပြီးပြန်တက်လို့ရပါတယ်ခင်ဗျ။ အရင်အတန်းလေးတက်တုန်းက register လေးပေးထားတဲ့ နာမည် email လေးနဲ့ ဖုန်းနံပါတ်လေးပို့ပေးပါခင်ဗျာ။
+QAQC   ဆောက်လုပ်ရေးအင်ဂျင်နီယာများ၊ Construction Project များကိုဦးဆောင်နေသူများ၊ စီမံခန့်ခွဲနေသူများ နှင့် လုပ်ငန်းရှင်များအတွက် ဆောက်လုပ်ရေးနည်းပညာဘာသာရပ် SFU Certificate in Construction Quality Assurance and Quality Control (Module (3) - Professional Diploma in Applied Construction Management)  အတန်းသစ်ကို ဇူလိုင်လ (၂၉) ရက်နေ့ စတင်ဖွင့်လှစ်သွားပါမည်။  ⏳သင်တန်းကာလ နှင့် သင်တန်းအချိန်  အတန်းစမည့်ရက်: 29 - July - 2023  သင်တန်းချိန်: အပတ်စဉ် စနေနေ့ (6:30 pm to 8:30 pm) တနင်္ဂနွေနေ့ (1:00 pm to 4:00 pm)  သင်တန်းကာလ: 2.5 months  သင်တန်းကြေး - 395,000 ကျပ် (Textbook Hardcopy ဝယ်ယူလိုပါက စာအုပ်ဖိုးထပ်မံပေးသွင်းရပါမည်)   SFU ကျောင်းသားဟောင်းသင်တန်းကြေး - 295,000 ကျပ်  One Time Payment – 10% Discount ခံစားခွင့်  အသေစိတ်ကို - https://www.facebook.com/StrategyFirstinternational college တွင်လေ့လာနိုင်ပါသည်ခင်ဗျာ။
+MDY ဟုတ်ကဲ့ခင်ဗျာ။ မန္တလေး ကျောင်းလေးကို ဆက်သွယ်လို့ပါက ဖုန်းနံပါတ်  ☎  09-444 555 616~ 617  ကိုယ်တိုင်လာရောက်စုံစမ်းရန် Mingalar Mandalay Teaching Center (1) - Block 4, Unit 8, သဇင်လမ်း နှင့် ငုရွေဝါလမ်းထောင့်၊ မင်္ဂလာမန္တလေး၊ ချမ်းမြသာစည်မြို့နယ်၊ New Ocean အနီး ၊ မန္တလေးမြို့။ Massenger မှစုံးစမ်းရန် - https://www.facebook.com/messages/t/286793705085124 
+Wel ပါ  မင်္ဂလာပါခင်ဗျာ။ သင်တန်းလေးအပ်နှံပေးတဲ့အတွက်ကျေးဇူးတင်ပါတယ်ခင်ဗျာ။ Payment Receipt လေးကိုတော့ Finance ဘက်ကနေ တစ်ပါတ်အတွင်း  Email လေးပို့ပေးသွားမှာ ဖြစ်ပါတယ်ခင်ဗျာ။ အတန်းနဲ့ ပတ်သတ်တဲ့ Information လေးတွေပါတဲ့  welcome mail လေးကိုတော့ အတန်းစမည့်ရက်မတိုင်ခင် ပေးပို့ပေးသွားမှာ ဖြစ်ပါတယ်ခင်ဗျာ။ အဆင်မပြေတာလေးတွေရှိပါက 09250717168, 09444555612 ဖုန်းလေးကိုဖြစ်စေ messenger လေးမှ ဖြစ်စေ မေးမြန်းနိုင်ပါသည်ခင်ဗျာ။
+how to get pd အတန်းတွင်း quiz များဖြေဆိုအောင်မြင်ပြီး attendance များပြည့်ပါက SFU မှ ပေးအပ်သော Certificate ကို ရရှိမှာဖြစ်ပြီး exam အားလုံးဖြေဆိုအောင်မြင်ပါက SFU မှ ပေးအပ်သော Professional Diploma ကို ရရှိမှာဖြစ်ပါတယ်ခင်ဗျာ။
+More Details   သင်တန်းနဲ့ပတ်သက်ပြီး အသေးစိတ်ထပ်မံသိရှိလိုပါက ကျွန်တော်တို့ရဲ့ Hotline ဖုန်းနံပါတ်လေးဖြစ်တဲ့ 09765438000 သို့ ရုံးချိန် နံနက် 9:00 မှ ညနေ 6:00 အတွင်း ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်ခင်ဗျာ။
+diff (SFU and SFUx)  SFU က Strategy First international college ဖြစ်ပြီး SFUx ကတော့ Strategy First international college Extension ဖြစ်ပါတယ်ခင်ဗျာ။ SFU မှာကတော့ Bachelor program, ICM Single Subject Diploma Program, SFU Professional Diploma Program, Certificate Program ဆိုပြီးရှိပါတယ်ခင်ဗျာ။ SFUx မှာကတော့ SFUx Certificate program နဲ့ Diploma အတန်းလေးရှိပါတယ်ခင်ဗျာ။
+2 payment  သင်တန်းကြေးလေးကိုအရစ်ကျပေးသွင်းလိုပါက One month credit လေးဖြစ်တဲ့ အတွက် ငွေပေးသွင်းတဲ့နေ့မှစပြီးတစ်လပြည့်တဲ့နေ့တွင် Second Payment လေးကိုပေးသွင်းပေးရမှာပါ ခင်ဗျာ။
+Eng Level Test  ဟုတ်ကဲ့ Level test လေးကိုဖြေလိုပါက pd.strategyfirst.edu.mm ဆိုတဲ့ website ထဲကိုဝင်ပေးရပါမယ်ခင်ဗျာ။  website ထဲရောက်သွားတဲ့အခါ user name နေရာမှာ မိမိ email ထည့်ရမှာဖြစ်ပြီး pw နေရာမှာ Sfu@2022 နဲ့ဝင်ပေးရမှာပါခင်ဗျာ။  moodle ထဲရောက်သွားတဲ့အခါ ဘယ်ဘက်နားလေးက my course အောက်မှာ level test for English Proficiency Courses ဆိုပြီးတွေ့ပါလိမ့်မယ်ခင်ဗျာ။ အဲ့ထဲကိုနှိပ်ပြီး test ကိုဖြေဆိုနိုင်ပါတယ်ခင်ဗျာ။ ဖြေဆိုချိန်ကတော့ 1:30 hrs ပါခင်ဗျာ။
+pd assessment 💯 စာမေးပွဲနှင့် အရည်အသွေးစစ်ဆေးခြင်း စာမေးပွဲအနေဖြင့်ဘာသာရပ်ပေါ်မူတည်ပြီး Online Quiz MCQ + Assessment များဖြင့် ဖြေဆိုရပါမည်။ Assessment ဖြေဆိုရာတွင်ဘာသာရပ် Learning Outcome ပေါ်မူတည်ပြီး Assessment Type ကွာခြားမှုရှိပါမည်။ အတန်းတွင်း Activity များအနေဖြင့် Group အလိုက်၊ တစ်ဦးချင်းစီ (သို) အဖွဲလိုက် Quiz, Assignment, Presentation များလည်းရှိပါမည်။
+Who Join? Strategy First international college မှ ဖွင့်လှစ်ထားသော Bachelor အတန်း များကို - GED/ IGCSE/ တက္ကသိုလ်ဝင်တန်းဖြေဆိုအောင်မြင်ထားသူများ - စီးပွားရေးကို စိတ်ဝင်စားသော လူငယ်များ - IT နည်းပညာလေ့လာလိုသူများ - Computing ပိုင်းအပြင် စီးပွားရေးနှင့်တွဲစပ်လေ့လာလိုသူများတက်ရောက်နိုင်ပါသည်ခင်ဗျာ။
+DB fee old  ဟုတ်ကဲ့ခင်ဗျာ။  သင်တန်းကြေး - ၆၄၅၀၀၀ ကျပ်  ကျောင်းသားဟောင်းသင်တန်းကြေး - ၅၄၅၀၀၀ ကျပ်   တစ်ခါတည်ပေးသွင်းမည်ဆိုပါက ၄၉၀၅၀၀ကျပ်   အရစ်ကျပေးသွင်းလိုပါက  1st payment -   ၁၂၂၆၂၅ကျပ် 2nd payment-   ၁၂၂၆၂၅ကျပ် 3rd payment-   ၁၂၂၆၂၅ကျပ် final payment- ၁၂၂၆၂၅ကျပ် ပထမအကြိမ်ပေးသွင်းပြီး ၁လပြည့်ရင် ဒုတိယအကြိမ်ကိုထပ်မံပေးသွင်းပေးရမှာပါခင်ဗျာ။
+sfux certificate   SFUx Learn တွေ Profile update ပြုလုပ်ရန်အတွက် Menu ထဲက my profile မှာ NRC card ရှေ့နောက် ဓါတ်ပုံကို ထည့်ပေးရပါမည်။  ထည့်ပြီးပါက 09400088050-54 ကို ဆက်သွယ်ပေးပါ။  ကျောင်းဘက်က verifyလုပ်ပြီးပြီးဆိုပါက menu ထဲက Certificate နေရာမှာ စစ်ဆေးပေးပါခင်ဗျာ။ 
+SFU-PD  SFU Professioal Diploma အတန်းတွေမှာတော့ ဘာသာရပ်တစ်ခုကို Module 4  ခု လေ့လာရမှာဖြစ်ပါတယ်ခင်ဗျာ။  Module တစ်ခုချင်းစီတိုင်းမှာ သက်ဆိုင်ရာ Unitအလိုက် ကြိုတင်ရိုက်ကူးထားတဲ့ သင်ခန်းစာ Video တွေကို အရင်ဆုံး အိမ်ကနေ လေ့လာရပါမယ်။  ပြီးရင်တော့ လေ့လာထားတဲ့ သင်ခန်းစာတွေကို Zoom အတန်းချိန် ပြန်လည်ဆွေးနွေး သင်ကြား တဲ့ ပုံစံ နဲ့ ထပ်မံလေ့လာရပါမယ်။  Unit တစ်ခု ချင်းစီတိုင်းမှာ လေ့လာရမယ့် သင်ခန်းစာ Video လေ့ကျင့်ဖြေဆိုရမည့် Quiz သင်ခန်းစာ Note တွေ အားလုံးပါဝင်မှာ ဖြစ်ပါတယ်ခင်ဗျာ။ Module တစ်ခုချင်းစီတိုင်းရဲ့ Quiz တွေ အားလုံးကို ဖြေဆိုအောင်မြင်ပြီးသာ SFU professional Diploma ကိုရရှိဖို့ အတွက်  Assignment လုပ်လို့ရမှာပါ။ Assignement အောင်မြင်မှသာ Diploma ကိုရရှိမှာဖြစ်ပါတယ်ခင်ဗျာ။  Assessment အားလုံးကို Strategy First international college က သာ စစ်ဆေးဆောင်ရွက်တာဖြစ်ပါတယ်ခင်ဗျာ။    
+pd exam fees  စာမေးပွဲကြေးကို Online Payment ဖြင့်လွှဲပြီးပါက ငွေလွှဲထားပါသော Payment Screenshot နှင့်အတူ ဓာတ်ပုံ (၂) ပုံ (လိုင်စင် size) ၊ ဘွဲ့လက်မှတ် မိတ္တူ (၁)စောင် (သို့) ဆယ်တန်းအောင်လက်မှတ် မိတ္တူ (၁)စောင် (ဘွဲ့လက်မှတ်တွင် Myanmar /English လို နှစ်မျိူးလုံးလက်ခံပြီး နိုတြီပြန်ရန်မလိုပါ) တို့ကို admission.pd@strategyfirst.edu.mm  Attachments တွဲ၍ ပို့ပေးရပါမည်။စာမေးပွဲကြေး သွင်းထားပြီး လက်ခံရရှိကြောင်း ကို Email မှ အကြောင်းပြန် ပေးသွားမည် ဖြစ်ပြီး (၂)ရက်အတွင်း Payment Receipt ကိုပို့ပေးသွားပါမည်။ စာမေးပွဲကြေး နှင့် ပတ်သက်ပြီး ဆက်သွယ် လိုပါက 09 250 71 71 67 – 09 894 991 040 ဆက်သွယ် မေးမြန်း နိုင်ပါတယ်ခင်ဗျာ။
+Dip sfux and SFU  မင်္ဂလာပါခင်ဗျာ  Professional Diploma ကတော့ Module (၄) ခု ဖြင့် ဖွဲ့စည်းထားတဲ့ Professional Diploma မျိုးစားဖြစ်ပါတယ်။  Exam စစ်ဆေးတာတွေ အားလုံးကိုလည်း Strategy First international college ကပဲ စစ်ဆေးဆောင်ရွက်တာဖြစ်ပါတယ်။  Professional Diploma ကတော့ သင်ခန်းစာတွေ ပိုမိုပြည့်စုံစွာလေ့လာရမှာဖြစ်ပါတယ်ခင်ဗျာ။   SFU Diploma in Entrepreneurship and Management (SFUx) အတန်းလေးက Certificate ၇ခုကို တစ်ပေါင်းတစ်စည်းတည်းလေ့လာရပါမယ်။  Application / Website ထဲမှာတော့ Diploma ဆိုတဲ့ ခေါင်းစဉ်အောက်မှာ Certificate (၇) ခုအနေနဲ့ ခွဲပြီး လေ့လာရပါမယ်ခင်ဗျာ။ (၇) ခုလုံး ဖြေဆိုအောင်မြင်ပြီးပါက Business Plan တင်ပေးရပါမယ်ခင်ဗျာ။ ပြီးပါက SFU Diploma in Entrepreneurship and Management ရရှိမှာဖြစ်ပါတယ်ခင်ဗျာ။ 
+Diff BM & BA   Business Management နဲ့ Business Administration သင်ကြားရမယ့် ဘာသာရပ်တွေကတူပါတယ် ခင်ဗျာ။။ Management က Planning, Organizing ပိုင်းဘက်ကို ပိုသွားပြီး Business Administration ကတော့ ပိုပြီး ကျယ်ပြန့်တဲ့ General Management ပိုင်း၊ organization တွေရဲ့ Function အားလုံးကို ခြုံငုံမိအောင်၊ နောက်ပိုင်းမှာ စိတ်ဝင်စားတဲ့ Specialization တွေ ထပ်ယူနိုင်ဖို့တွေ သင်ယူရမှာဖြစ်ပါတယ်ခင်ဗျာ။  Level 4 & 5 ကတော့ Pearson Education ရဲ့ Higher National Diploma in Business နဲ့ အတူတူပါပဲ။ နောက်ဆုံးနှစ်ကတော့ ကိုယ် တက်ရောက်တဲ့ ကျောင်းပေါ်မှာ မူတည်ပြီး ပေးတဲ့ ဘွဲ့အမျိုးအစားနဲ့ major တွေကွာခြားပါတယ်ခင်ဗျာ။
+Acc & FM diff  Accounting လေးက Entry ပိုင်းကို အသေးစိတ်လေ့လာရမှာဖြစ်ပြီး Financial Management လေးကတော့ Decision ပိုင်းအတွက် သိထားရမယ့်အကြောင်းအရာတွေကို လေ့လာရမှာဖြစ်ပါတယ်ခင်ဗျာ။
+diff online / on Campus သင်ကြားမည့်ပုံစံက  Online -  “သင်ခန်းစာများကို Online Only ဖြင့် သင်ကြား ပေးသွားမည် ဖြစ်သည်။” ၁။ ဆရာကြီး၊ဆရာမကြီးများမှကြိုတင်ရိုက်ကူးထားသော ဗီဒီယိုသင်ခန်းစာများကို Online တွင် လေ့လာရမည်။ ၂။ ကြိုတင်လေ့လာပြီးသော ဗီဒီယိုသင်ခန်းစာများကို လက်တွေ့ပိုင်းဆိုင်ရာ လေ့ကျင့်ဆွေးနွေးနိုင်မည့် Face to Face workshop အတန်းချိန်များကိုတော့ သတ်မှတ်ထားသည့်အတန်းချိန်အတိုင်း Online မှ Zoom ဖြင့်အပတ်စဉ်တစ်ပတ်(၁)ရက်တက်ရောက်ပေးရပါမည်။  On Campus -  ၁။ ဆရာကြီး၊ဆရာမကြီးများမှကြိုတင်ရိုက်ကူးထားသော သင်ခန်းစာဗီဒီယိုများကို Website/ Moodle application တွင် လေ့လာရမည်။  ၂။ ကြိုတင်လေ့လာပြီးသော ဗီဒီယိုသင်ခန်းစာများကို လက်တွေ့ပိုင်းဆိုင်ရာ လေ့ကျင့်ဆွေးနွေးနိုင်မည့် Face to Face workshop အတန်းချိန်များကိုတော့ သတ်မှတ်ထားသည့်အတန်းချိန်အတိုင်း ဘာသာရပ်အလိုက် သက်ဆိုင်ရာ Strategy First international college ကျောင်းခွဲများတွင် အပတ်စဉ် တစ်ပတ်(၁)ရက် တက်ရောက်ပေးရပါမည်။
+diff ICM / PD မင်္ဂလာပါခင်ဗျာ  ICM Single Subject Diploma  ကတော့  Module တစ်ခုတည်းကိုသာသီးသန့်လေ့လာရတာဖြစ်တဲ့ Single Subject Diploma မျိုးစားပဲ ဖြစ်ပါတယ်။  အတန်းပြီးရင်တော့ ICM(UK) Exam ကို ဝင်ရောက်ဖြေဆိုပြီး Single Subject Diploma ကိုရယူနိုင်ပါယ်ခင်ဗျာ။  သင်တန်းကာလ-၃လခွဲ Online-295000ကျပ် Campus-355000ကျပ် Professional Diploma ကတော့ Module (၄) ခု ဖြင့် ဖွဲ့စည်းထားတဲ့ Professional Diploma မျိုးစားဖြစ်ပါတယ်။  Exam စစ်ဆေးတာတွေ အားလုံးကိုလည်း Strategy First international college ကပဲ စစ်ဆေးဆောင်ရွက်တာဖြစ်ပါတယ်။  Professional Diploma ကတော့ သင်ခန်းစာတွေ ပိုမိုပြည့်စုံစွာလေ့လာရမှာဖြစ်ပါတယ်ခင်ဗျာ။  သင်တန်းကာလ-၉လ သင်တန်းကြေး-၅၄၅၀၀၀ကျပ် 
+require Undergraduate Program အတန်းအပ်ရန်လိုအပ်ချက်များ  - Reg Form ဖြည့်ရန်  - ၁၀ တန်းအောင်လက်မှတ်နှင့် အမှတ်စာရင်း  - Entrance Test ဖြေဆိုအောင်မြင်ရမည်(Eng & Maths)  - ဆရာ/မ နှင့် individual interview ဖြေဆိုအောင်မြင်ရပါမယ်ခင်ဗျာ။ 
+ACM dip ဟုတ်ကဲ့  SFU Professional Diploma in 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗖𝗼𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 အတန်းလေးက   စာမေးပွဲနှင့် အရည်အသွေးစစ်ဆေးခြင်း   စာမေးပွဲအနေဖြင့် Online Quiz MCQ + Assignment များဖြင့် ဖြေဆိုရပါမည်။   Assignment စာတမ်းကို မြန်မာဘာသာဖြင့် ဖြစ်စေ ၊ English ဘာသာဖြင့် ဖြစ်စေ ၊ မြန်မာ English နှစ်ဘာသာပေါင်းစပ်၍ဖြစ်စေ (English ဘာသာ စာလုံးရေ ၁၅၀၀ ဝန်းကျင် သို့မဟုတ် ယင်းနှင့်ညီမျှသော စာသားပမာဏရှိသော စာတမ်းကို) တင်သွင်းရပါမည်။    ဘာသာရပ် တစ်ခုအောင်မြင်ပြီးတိုင်း သက်ဆိုင်ရာအောင်လက်မှတ် (Certificate) ချီးမြှင့်ပေးမည်  ဖြစ်ပါသည်။   Module (၄) ခုစလုံး အောင်မြင်ပြီးပါက “Professional Diploma in Applied Construction Management” အောင်လက်မှတ်ကို Strategy First international college ၏ Graduation အခမ်းအနားဖြင့် ချီးမြှင့်ပေးအပ်မည် ဖြစ်ပါသည်။
+refer to friend အစ်ကို/အစ်မ တို့ရဲ သူငယ်ချင်းတွေ အတန်းတက်မယ်ဆိုရင်လည်း အစ်ကို/အစ်မ နာမည် သုံးပြီး အတန်း အပ်ပါက တက်မည့် သူငယ်ချင်းက Refer Discount နဲ့ အစ်ကို/အစ်မတို့က SFUx Certificate in Business English အတန်းလေးကို FOC တက်ရောက်ခွင့်ရရှိမှာ ဖြစ်ပါတယ်ခင်ဗျာ။ Refer discount သုံးမယ့်သူငယ်ချင်းက refer ပေးတဲ့ကျောင်းသားနဲ့ batch တူမယ်ဆိုရင်တော့ refer discount လေးသုံးလို့မရပါဘူးခင်ဗျာ။
+BM fees မင်္ဂလာပါခင်ဗျာ။ သင်တန်းကြေးလေးကတော့  HNC Programme Fees (Online) – 4,375,000 ကျပ် HNC Programme Fees (On Campus) – 5,575,000 ကျပ် ( 2 နှစ်စာ registration fees လေးကတော့ 1,800,000 ~ 2,000,000 ကျပ် ဝန်းကျင်ရှိပါတယ်ခင်ဗျာ)  HND Programme Fees (Online) – 4,675,000 ကျပ် HND Programme Fees (On Campus) – 5,875,000 ကျပ် Old Students Discount – 1 Distinction – 2 သိန်း , 1 Merit – 1 သိန်း  Final Year Programme Fees (Online) – 16,600,000 ကျပ် Old Students Discount – 2,000,000 ကျပ် 1 Distinction ( Second Year) – 1 သိန်း ဖြစ်ပါတယ်ခင်ဗျာ။  လက်ရှိမှာ တက္ကသိုလ်ဝင်တန်းလေးကို အောင်မြင်ထားတာပါလားခင်ဗျာ။  အသေးစိတ်ကို 09765438000 ကိုဆက်သွယ်ဆွေးနွေးနိုင်ပါတယ်ခင်ဗျာ။
+DCBM Fees မင်္ဂလာပါခင်ဗျာ။ သင်တန်းကြေးကတော့  ပထမနှစ် - Programme Fees (On Campus) – 5,575,000 ကျပ် Exam Fees – 1,800,000 ~ 2,000,000 ကျပ်  ဒုတိယနှစ် - Programme Fees (On Campus) – 5,875,000 ကျပ် Old Students Discount – 1 Distinction – 2 သိန်း , 1 Merit – 1 သိန်း Exam Fees – 2,200,000 ~ 2,500,000 ကျပ်  တတိယနှစ် -Final Year Programme Fees (Online) – 16,600,000 ကျပ် ပါခင်ဗျာ။  Old Students Discount – 2,000,000 ကျပ် 1 Distinction (Second Year) – 1 သိန်း ဖြစ်ပါတယ်ခင်ဗျာ။  Exam fee များသည် intake အလိုက်အပြောင်းအလဲရှိနိုင်ပါတယ်ခင်ဗျာ။  လက်ရှိမှာ တက္ကသိုလ်ဝင်တန်းလေးကို အောင်မြင်ထားတာပါလားခင်ဗျာ။ အသေးစိတ်ကို 09765438000 ကိုဆက်သွယ်စုံစမ်းနိင်ပါတယ်ခင်ဗျာ။
+uug  အတန်းလေးတွေကတော့ Foundation အတန်းလေးအပါအဝင် Final year အထိ သုံးနှစ်နဲ့သုံးလတက်ပေးရမှာပါခင်ဗျာ။ အတန်းလေးတွေကတော့  December လ 18 ရကနေ့စမှာပါခင်ဗျာ။ အတန်းလေးကို အပ်နှံပြီးတက်ရောက်ရန်အတွက် register လေးလုပ်ပြီး Entrance Test လေးကိုဖြေဆိုပေးရမှာပါခင်ဗျာ။ အတန်းလေးအကြောင်းကိုကျောင်းဘက်မှလည်း အသေးစိတ်ဆက်သွယ်ပြီးရှင်းပြပေးနိုင်ရန်အတွက် နာမည် email လေးနဲ့ ဖုန်းနံပါတ်လေးပို့ပေးပါခင်ဗျာ။
