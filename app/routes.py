@@ -1,8 +1,8 @@
 from fastapi import FastAPI, HTTPException, UploadFile, File
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 import os
 from app.services import process_question, save_uploaded_file
-from app.utils import simple_response
+from app.utils import simple_response, build_prompt, stream_openai
 
 app = FastAPI()
 data_folder = "data"  # Ensure this matches your folder structure
@@ -31,6 +31,25 @@ async def answer_question(data: dict):
     if "question" not in data:
         raise HTTPException(status_code=400, detail="Question not provided")
     return process_question(data)
+
+
+@app.post("/question/stream")
+async def stream_answer_question(data: dict):
+    if "question" not in data:
+        raise HTTPException(status_code=400, detail="Question not provided")
+    from app.utils import load_articles
+
+    articles = load_articles(data_folder)
+    combined_articles = "\n\n".join(articles.values())
+    prompt = build_prompt(combined_articles, data["question"])
+
+    def json_stream():
+        yield '{"status": "success", "message": "Answer generated successfully", "answer": "'
+        for chunk in stream_openai(prompt):
+            yield chunk.replace('"', '\\"')  # Escape quotes for valid JSON
+        yield '"}'
+
+    return StreamingResponse(json_stream(), media_type="application/json")
 
 
 @app.post("/upload")
@@ -94,4 +113,4 @@ async def update_file(filename: str, data: dict):
 
 @app.get("/hello")
 async def hello():
-    return "Hello, Universe!"
+    return "Hello, haha!"

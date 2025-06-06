@@ -47,3 +47,23 @@ def call_openai(prompt):
         temperature=0,
     )
     return response.choices[0].message.content
+
+
+def stream_openai(prompt):
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    response = client.chat.completions.create(
+        messages=[
+            {
+                "role": "developer",
+                "content": "You answer questions based on given articles.",
+            },
+            {"role": "user", "content": prompt},
+        ],
+        model="gpt-4o",
+        temperature=0,
+        stream=True,  # Enable streaming
+    )
+    for chunk in response:
+        content = chunk.choices[0].delta.content
+        if content:
+            yield content
