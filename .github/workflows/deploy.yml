@@ -3,7 +3,7 @@ name: CI/CD for PyFlask
 on:
   push:
     branches:
-      - dev # Trigger workflow on push to the dev branch
+      - dev # Trigger workflow on push to the main branch
 
 jobs:
   build-and-deploy:
@@ -14,20 +14,12 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      # Step 2: Set the version tag dynamically (e.g., using commit hash or timestamp)
-      - name: Set Version Tag
-        id: version
-        run: |
-          VERSION_TAG="v1-${GITHUB_SHA:0:7}"  # Using the first 7 characters of the commit hash for versioning
-          echo "VERSION_TAG=${VERSION_TAG}" >> $GITHUB_ENV
-          echo "Tagging Docker image as ${VERSION_TAG}"
-
-      # Step 3: Build the Docker image with the new version tag
+      # Step 2: Build the Docker image
       - name: Build Docker Image
         run: |
-          docker build -t thetnaing/pyflask:${{ env.VERSION_TAG }} .
+          docker build -t thetnaing/pyflask:v1 .
 
-      # Step 4: Push the Docker image to Docker Hub
+      # Step 3: Push the Docker image to Docker Hub
       - name: Log in to Docker Hub
         uses: docker/login-action@v2
         with:
@@ -36,9 +28,9 @@ jobs:
 
       - name: Push Docker Image
         run: |
-          docker push thetnaing/pyflask:${{ env.VERSION_TAG }}
+          docker push thetnaing/pyflask:v1
 
-      # Step 5: Deploy to the server
+      # Step 4: Deploy to the server
       - name: Deploy to Server
         uses: appleboy/ssh-action@v0.1.8
         with:
@@ -49,5 +41,5 @@ jobs:
           script: |
             docker stop pyflask || true
             docker rm pyflask || true
-            docker pull thetnaing/pyflask:${{ env.VERSION_TAG }}
-            docker run -d -p 5000:5000 --name pyflask thetnaing/pyflask:${{ env.VERSION_TAG }}
+            docker pull thetnaing/pyflask:v1
+            docker run -d -p 5000:5000 --name pyflask thetnaing/pyflask:v1
